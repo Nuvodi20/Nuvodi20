@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on designing 
 - 📫 How to reach me nuvodiobama@gmail.com
 - 😄 Pronouns: I 
-- ⚡ Fun fact: I love gaming 
+- ⚡ Fun fact: I love coding
 
 <!---
 Nuvodi20/Nuvodi20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
